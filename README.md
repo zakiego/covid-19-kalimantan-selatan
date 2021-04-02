@@ -2,7 +2,7 @@
 
 Data-data ini dikumpulkan secara manual dari instagram Dinas Kesehatan Provinsi Kalimantan Selatan (http://instagram.com/dinkesprovkalsel).
 
-Selain itu, kami juga mengumpulkan data dari Dinas Kesehatan masing-masing Kabupaten dan Kota:
+Selain itu, dikumpulkan juga data dari Dinas Kesehatan masing-masing Kabupaten dan Kota:
 1. Tanah Laut (http://covid19.tanahlautkab.go.id/)
 2. Kotabaru (http://covid19.kotabarukab.go.id/ | http://instagram.com/dinkeskabkotabaru/)
 3. Banjar (http://instagram.com/banjarkab)
